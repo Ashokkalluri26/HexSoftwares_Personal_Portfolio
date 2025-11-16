@@ -18,7 +18,7 @@ A personal portfolio website to showcase my projects, skills, and experience as 
 ## 📸 Screenshots
 
 [Homepage](https://github.com/Ashokkalluri26/HexSoftwares_Personal_Portfolio/blob/main/Screenshots/portfolio%20.jpg) 
-<!-- ![Projects](screenshots/projects.png) -->
+
 
 ## 🚀 Getting Started
 
