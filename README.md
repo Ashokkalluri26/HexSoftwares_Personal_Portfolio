@@ -17,7 +17,7 @@ A personal portfolio website to showcase my projects, skills, and experience as 
 
 ## 📸 Screenshots
 
-[Homepage]() 
+![Resume Screenshot]()
 
 
 ## 🚀 Getting Started
