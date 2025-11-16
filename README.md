@@ -17,14 +17,14 @@ A personal portfolio website to showcase my projects, skills, and experience as 
 
 ## 📸 Screenshots
 
-[Homepage](https://github.com/Ashokkalluri26/HexSoftwares_Personal_Portfolio/blob/main/Screenshots/portfolio%20.jpg) 
+[Homepage]() 
 
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Ashokkalluri26 /portfolio.git
    ```
 2. Open `index.html` in your browser
 
